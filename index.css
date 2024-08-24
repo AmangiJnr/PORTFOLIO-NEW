@@ -213,12 +213,9 @@ header .links a {
     z-index: 1;
   }
 
-  body {
-    overflow-x: hidden;
-  }
-
   .wrapper-main {
     width: 100%;
+    overflow-x: hidden;
   }
 
   header img {
