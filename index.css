@@ -259,7 +259,7 @@ header .links a {
   }
 
   .services img {
-    width: 350px;
+    width: 330px;
   }
 
   .contact {
@@ -276,7 +276,7 @@ header .links a {
   }
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   header {
     position: sticky;
     top: 0;
@@ -335,7 +335,7 @@ header .links a {
   .contact img {
     display: none;
   }
-}
+} */
 
 @media only screen and (max-width: 800px) {
   .wrapper-main {
