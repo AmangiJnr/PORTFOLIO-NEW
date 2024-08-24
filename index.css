@@ -216,6 +216,11 @@ header .links a{
         z-index: 1;
     }
 
+
+    body{
+        overflow-x: hidden;
+    }
+
    .wrapper-main{
     width: 100%;
    }
@@ -268,6 +273,10 @@ header .links a{
 
    .contact img{
     display: none;
+   }
+
+   .contact #msg{
+    width: 330px;
    }
 
 }
